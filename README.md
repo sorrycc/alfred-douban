@@ -18,6 +18,8 @@ Alfred 3 workflow to find movie from douban.
 $ yarn global add alfred-douban
 ```
 
+Requires [Node.js](https://nodejs.org/) 8+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).
+
 ## Usage
 
 In Alfred, type `douban`, `Enter`, and some text, to find relevant movie.
