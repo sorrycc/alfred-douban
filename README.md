@@ -22,7 +22,7 @@ Requires [Node.js](https://nodejs.org/) 8+ and the Alfred [Powerpack](https://ww
 
 ## Usage
 
-In Alfred, type `douban`, `Enter`, and some text, to find relevant movie.
+In Alfred, type `douban`, <kbd>Enter</kbd>, and some text, to find relevant movie.
 
 ## LICENSE
 
