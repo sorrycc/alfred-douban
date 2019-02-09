@@ -6,7 +6,7 @@ Alfred 3 workflow to find movie from douban.
 [![Build Status](https://img.shields.io/travis/sorrycc/alfred-douban.svg?style=flat)](https://travis-ci.org/sorrycc/alfred-douban)
 [![NPM downloads](http://img.shields.io/npm/dm/alfred-douban.svg?style=flat)](https://npmjs.org/package/alfred-douban)
 
-![](./screenshot.png)
+<img src="./screenshot.png" width="624" height="211" />
 
 ## Feature
 
