@@ -28,10 +28,6 @@ const alfy = require('alfy');
         title: item.title,
         subtitle: `评分：${item.rating.average} 年份：${item.year}`,
         arg: item.alt,
-        // icon: {
-        //   type: 'info',
-        //   path: item.images.small,
-        // },
       };
     }),
   );
