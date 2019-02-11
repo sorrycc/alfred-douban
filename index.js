@@ -27,7 +27,7 @@ const alfy = require('alfy');
     data.subjects.map(item => {
       return {
         title: item.title,
-        subtitle: `评分：${item.rating.average} 年份：${item.year}`,
+        subtitle: `Rating: ${item.rating.average} Year: ${item.year}`,
         arg: item.alt,
       };
     }),
