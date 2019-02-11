@@ -11,6 +11,7 @@ const alfy = require('alfy');
     alfy.error(new Error(`API request failed`));
     return;
   }
+
   if (data.subjects.length === 0) {
     alfy.output([
       {
