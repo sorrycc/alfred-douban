@@ -25,7 +25,7 @@
     "coveralls": "3",
     "husky": "1",
     "lint-staged": "8",
-    "np": "3",
+    "np": "4",
     "prettier": "1",
     "umi-test": "1"
   },
